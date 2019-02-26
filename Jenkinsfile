@@ -2,5 +2,5 @@
 @Library('sfdx-jenkins-shared-library')
 
 sfdxBuildPipeline(
-    glob: 'config/project-scratch-def.*.json'
+    glob: 'config/project-scratch-def.json'
 )
